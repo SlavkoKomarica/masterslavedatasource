@@ -1,0 +1,30 @@
+######################
+# Gradle
+######################
+.gradle/**
+.gradletasknamecache
+
+######################
+# Gradle Wrapper
+######################
+!gradle/wrapper/gradle-wrapper.jar
+
+######################
+# Intellij
+######################
+.idea/**
+/out/**
+*.iml
+*.iws
+*.ipr
+*.ids
+*.orig
+
+######################
+# Directories
+######################
+/build/**
+/classes/**
+/bin/**
+/spring_loaded/**
+/deploy/**
